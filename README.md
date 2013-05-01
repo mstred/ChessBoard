@@ -13,10 +13,11 @@ Descrição
 ---------
 
 O projeto ChessBoard foi desenvolvido com o uso de elementos gráficos primitivos do Android, como [Canvas] [1], [Paint] [2] e [Bitmap] [3].
+
 Estando apenas restrito a esta funcionalidade, o ChessBoard não possui lógica operacional para um jogo como Xadrez, mas está sendo disponibilizado para que isto possa ser feito por quem quiser. 
 
 :smiley:
 
-[1]: #
-[2]: #
-[3]: #
+[1]: http://developer.android.com/reference/android/graphics/Canvas.html
+[2]: http://developer.android.com/reference/android/graphics/Paint.html
+[3]: http://developer.android.com/reference/android/graphics/Bitmap.html
